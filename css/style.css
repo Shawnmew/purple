@@ -535,7 +535,9 @@ section:nth-child(even){
         width: 20rem;
         transform: scale(1);
     }
-    
+    .contact{
+        transform: scale(0);
+    }
     
 
 }
