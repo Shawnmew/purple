@@ -485,11 +485,12 @@ section:nth-child(even){
         margin: 2.5rem;
     }
 
-    .header .navbar a{
-        font-size: 2rem;
-        display: block;
-        margin: 2.5rem;
+    .exposes .box-container .box img{
+        height: 18rem;
+        width: 20rem;
+        transform: scale(1);
     }
+    
     
 
 }
