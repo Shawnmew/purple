@@ -485,6 +485,12 @@ section:nth-child(even){
         margin: 2.5rem;
     }
 
+    .header .navbar.active{
+        transform: scale(1);
+        opacity: 1;
+        transition: .2s ease-out;
+    }
+
 }
 
 @media(max-width:450px){
