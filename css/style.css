@@ -247,8 +247,8 @@ section:nth-child(even){
     margin: 0;
 }*/
 .exposes .box-container .box img{
-    height: 10rem;
-    width: 15rem;
+    height: 30rem;
+    width: 35rem;
     box-shadow: var(--box-shadow);
     
     
