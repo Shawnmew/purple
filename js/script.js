@@ -11,4 +11,4 @@ window.onscroll = () =>{
     navbar.classList.remove('active');
 }
 
-//alert("Welcome to CHoC Official Website")
+alert("Welcome to CHoC Official Website")
