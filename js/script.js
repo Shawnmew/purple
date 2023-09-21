@@ -16,7 +16,7 @@ window.onscroll = () =>{
     title: 'Welcome to the CHOCARE official WebSite',
     width: 600,
     padding: '3rem',
-    color: 'orange',
+    color: 'var(--green)',
     background: '#fff url(/images/trees.png)',
     backdrop: `
       rgba(0,0,123,0.4)
